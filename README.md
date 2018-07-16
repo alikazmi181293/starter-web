@@ -15,3 +15,7 @@ now i am going to write under purpose
 Now in the deployment area
 
 ## How to Contribute
+
+## CopyRight
+
+now its copyright
