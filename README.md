@@ -16,6 +16,8 @@ Now in the deployment area
 
 ## How to Contribute
 
+please give me money
+
 ## CopyRight
 
 now its copyright
