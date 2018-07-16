@@ -15,3 +15,5 @@ Sample website with plenty of files for demos
 	Please contribute i am learner
 
 ## New One
+
+is also updated now
